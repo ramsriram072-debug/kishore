@@ -1,0 +1,6 @@
+{
+  "name": "AI Game World Generator",
+  "description": "Generate cohesive game worlds with interactive 2D maps, regions, characters, quests, enemies, items, and lore powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
